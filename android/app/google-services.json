@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936303218432",
+    "firebase_url": "https://urdoctor-5c9f0.firebaseio.com",
+    "project_id": "urdoctor-5c9f0",
+    "storage_bucket": "urdoctor-5c9f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936303218432:android:254860269dad634b",
+        "android_client_info": {
+          "package_name": "com.app.yourdoctor.lybia.yourdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936303218432-cm2ku0noq6q2tulamupdmeg3997fvmn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlo0mQl88N1Yw6ufx_OmpoYu7v8S-7MSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936303218432-cm2ku0noq6q2tulamupdmeg3997fvmn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
